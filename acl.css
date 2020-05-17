@@ -22,7 +22,7 @@ body{
 }
 
 #outerwrapper{
-	width: 50%;
+	width: 100%;
 	float: left;
 	border-bottom:7px white solid;
 	margin: 0px; padding: 0px 0px 5px 0px;
