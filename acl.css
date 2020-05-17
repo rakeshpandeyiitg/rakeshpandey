@@ -43,7 +43,7 @@ body{
 #header {
 	margin: 0px auto; padding: 0px;
 	height: 150px;
-	width: 740px;
+	width: 600px;
 	background-color: rgb(38, 38, 38);
 }
 
@@ -130,7 +130,7 @@ body{
 /* Content */
 #maincontent{
 	margin: 0px auto; padding: 0px;
-	width: 740px;
+	width: 640px;
 	letter-spacing: .7px;
 	font: 1.3em Verdana, Arial, Helvetica, sans-serif;
 }
@@ -154,7 +154,7 @@ body{
 }
 
 #maincontent #twocolright{
-	width: 50%;
+
 	float: right;
 	text-align: left;
 	margin: 10px 10px 10px 10px;
