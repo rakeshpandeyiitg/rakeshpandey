@@ -13,7 +13,7 @@
  
 /* Body */
 body{
-	font: 11px Verdana, Arial, Helvetica, sans-serif;
+	font: 10px Verdana, Arial, Helvetica, sans-serif;
 	background-color: rgb(240, 240, 240); 
 	text-align: center;
 	padding: 0px;
@@ -22,7 +22,7 @@ body{
 }
 
 #outerwrapper{
-	width: 100%;
+	width: 50%;
 	float: left;
 	border-bottom:7px white solid;
 	margin: 0px; padding: 0px 0px 5px 0px;
